@@ -302,34 +302,4 @@ Project ini menggunakan:
 # Lisensi
 
 Gunakan dengan bijak.
-
 Pastikan memiliki izin sebelum melakukan clone terhadap website yang bukan milik sendiri.
-
-```
-
----
-
-Struktur repository:
-
-```
-
-wayback-cloner
-│
-├── main.py
-├── requirements.txt
-├── README.md
-└── .gitignore
-
-````
-
-Tambahkan `.gitignore`:
-
-```gitignore
-__pycache__/
-*.pyc
-
-website/
-*.log
-.env
-````
-
