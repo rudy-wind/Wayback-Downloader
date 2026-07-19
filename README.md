@@ -111,13 +111,13 @@ python --version
 Clone repository:
 
 ```bash
-git clone https://github.com/username/wayback-cloner.git
+git clone https://github.com/rudy-wind/Wayback-Downloader.git
 ```
 
 Masuk ke folder:
 
 ```bash
-cd wayback-cloner
+cd Wayback-Downloader
 ```
 
 Install dependencies:
@@ -202,7 +202,7 @@ website/
 # Struktur Project
 
 ```
-wayback-cloner/
+Wayback-Downloader/
 
 │
 ├── main.py
